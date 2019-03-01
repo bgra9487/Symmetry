@@ -26,4 +26,4 @@ Out of the 17 existing plane patterns, I have been able to implement the followi
 xx
 o
 
-Currently working on the more complex patterns that involve more complex calculations in regards to rotation etc. I found that this was rather challenging, and despite developing some frameworks for it, such as a rotatePoint() function, which uses an expanded rotation matrix to rotate points by a given angle. Given that this project is due today :( I will be working on these in my spare time from here on out, but these will not be able to be assessed. 
+Currently working on the more complex patterns that involve more complex calculations in regards to rotation etc. I found that this was rather challenging, and despite developing some frameworks for it, such as a rotatePoint() function, which uses an expanded rotation matrix to rotate points by a given angle. Will be continuing work on this in my spare time and hopefully finish this application at a later date.
